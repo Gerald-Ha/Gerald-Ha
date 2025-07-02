@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Gerald</h1>
 <p align="center">
-  💻 Programmer | 🐳 Docker & Cloud Enthusiast | 🤖 AI Explorer
+  💻 Programmer | 📸 Photographer | 🐳 Docker & Cloud Enthusiast | 🤖 AI Explorer
+
 </p>
 
 ---
