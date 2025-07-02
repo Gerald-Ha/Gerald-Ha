@@ -76,7 +76,7 @@
 
 ## 🏆 Certifications
 
-- **Languages: JavaScript, TypeScript, Python, C#, 
+- **Languages**: JavaScript, TypeScript, Python, C#, 
 - **CompTIA Security+** – Cloud Security, Threats & Vulnerabilities
 - **Linux Foundation Certified Engineer (LFCE)**
 - **Windows Server 2022 Administration**
