@@ -13,12 +13,13 @@
 
 🔹 **Technologies & Tools I Use Regularly:**
 
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Python, FastAPI, Flask, .NET
-- **Frontend:** React, Next.js, Tailwind CSS, HTML5
 - **Container & Cloud:** Docker, Docker Compose, Portainer, Traefik, Nginx Proxy Manager
 - **Machine Learning:** YOLOv5 / YOLOv8, Python ML libraries
-- **DevOps:** GitHub Actions, CI/CD workflows
+- **DevOps:** Git, GitHub Actions, CI/CD workflows
 - **Databases:** MongoDB, PostgreSQL, Redis
+- **Other:** Linux, Macintoch, Windows
 
 ---
 
