@@ -13,13 +13,13 @@
 
 🔹 **Technologies & Tools I Use Regularly:**
 
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Python, FastAPI, Flask, .NET
 - **Container & Cloud:** Docker, Docker Compose, Portainer, Traefik, Nginx Proxy Manager
 - **Machine Learning:** YOLOv5 / YOLOv8, Python ML libraries
 - **DevOps:** Git, GitHub Actions, CI/CD workflows
 - **Databases:** MongoDB, PostgreSQL, Redis
-- **Other:** Linux, Macintosh, Windows
+- **Other:** Linux, Macintosh, Windows, Adobe Photoshop, Adobe Lightroom
 
 ---
 
@@ -51,6 +51,14 @@
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" />
+
+
+
 </p>
 </div>
 
