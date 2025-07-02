@@ -19,7 +19,7 @@
 - **Machine Learning:** YOLOv5 / YOLOv8, Python ML libraries
 - **DevOps:** Git, GitHub Actions, CI/CD workflows
 - **Databases:** MongoDB, PostgreSQL, Redis
-- **Other:** Linux, Macintoch, Windows
+- **Other:** Linux, Macintosh, Windows
 
 ---
 
