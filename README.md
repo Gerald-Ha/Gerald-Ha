@@ -14,7 +14,7 @@
 🔹 **Technologies & Tools I Use Regularly:**
 
 - **Backend:** Node.js, Python, FastAPI, Flask, .NET
-- **Frontend:** React, Tailwind CSS, HTML5
+- **Frontend:** React, Next.js, Tailwind CSS, HTML5
 - **Container & Cloud:** Docker, Docker Compose, Portainer, Traefik, Nginx Proxy Manager
 - **Machine Learning:** YOLOv5 / YOLOv8, Python ML libraries
 - **DevOps:** GitHub Actions, CI/CD workflows
@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
